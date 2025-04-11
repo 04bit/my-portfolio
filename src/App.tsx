@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Project from './pages/Project';
 import Contact from './pages/Contact';
+import Header from './components/Header';
 
 
 function App() {
